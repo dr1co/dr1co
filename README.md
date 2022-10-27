@@ -1,4 +1,4 @@
-## Yo! You can call me Drico!✌️
+## Hello! You can call me Drico!✌️
 
 ### 🗿 About me:
 
@@ -17,15 +17,15 @@ My first contact with programming was in college, where I learned some principle
             <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
             <img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" >
         </div>
-
-    <li> Back-end:
+<li> Back-end:
         <div style={display: 'flex'}>
             <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
             <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
             <img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" >
             <img height="20" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" >
         </div>
-    <li> Databases:
+
+<li> Databases:
         <div style={display: 'flex'}>
             <img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
             <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
@@ -36,7 +36,7 @@ My first contact with programming was in college, where I learned some principle
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amlipski/)
 [<img src="https://img.shields.io/github/followers/adnanbezerra?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dr1co)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto: dricomatoba@hotmail.com)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto: dricomatoba@hotmail.com)
 
 ### Some statistics:
 
