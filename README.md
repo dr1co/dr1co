@@ -2,7 +2,7 @@
 
 ### 🗿 About me:
 
-Hello, my name is _Adriano Matoba Lipski_. I'm a 21 years old Fullstack Developer Student at Driven Education that loves learning new things, and enjoys challenges! I also like to play videogames in my free time, play some piano or, mostly, twist some Rubik's cubes. Fun fact: I also like learning new languages, not only programming ones.
+My name is _Adriano Matoba Lipski_. I'm a 21 years old Fullstack Developer Student at Driven Education that loves learning new things, and enjoys challenges! I also like to play videogames in my free time, play some piano or, mostly, twist some Rubik's cubes. Fun fact: I also like learning new languages, not only programming ones.
 
 ### ⌨️ My journey as a 'code typist':
 
@@ -36,7 +36,7 @@ My first contact with programming was in college, where I learned some principle
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amlipski/)
 [<img src="https://img.shields.io/github/followers/adnanbezerra?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dr1co)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto: dricomatoba@hotmail.com)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto: dricomatoba@hotmail.com)
 
 ### Some statistics:
 
