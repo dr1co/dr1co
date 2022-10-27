@@ -34,9 +34,9 @@ My first contact with programming was in college, where I learned some principle
 
 ### 🔎 How to find me?
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amlipski/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amlipski/)
 [<img src="https://img.shields.io/github/followers/dr1co?label=follow&style=social" height="20" title="Follow me" />](https://github.com/dr1co)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height= "20" />](mailto: dricomatoba@hotmail.com)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="20" />](mailto:dricomatoba@hotmail.com)
 
 ### Some statistics:
 
