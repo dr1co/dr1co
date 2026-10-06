@@ -1,48 +1,134 @@
-## Hello! You can call me Drico!✌️
+<div align="center">
 
-### 🗿 About me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=DevOps%20%26%20Automation&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-My name is _Adriano Matoba Lipski_. I'm a 21 years old Fullstack Developer Student at Driven Education that loves learning new things, and enjoys challenges! I also like to play videogames in my free time, play some piano or, mostly, twist some Rubik's cubes. Fun fact: I also like learning new languages, not only programming ones.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
 
-### ⌨️ My journey as a 'code typist':
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C9FF&style=for-the-badge" />
 
-My first contact with programming was in college, where I learned some principles of C++ during a semester on Chemical Engineering at UFPR (Federal University of Paraná). Since then, I enjoyed programming but only found my passion when i began studying fullstack development at Driven Education, 2 years later. As of now, I've learned many technologies and made many projects throughout the course, including some of them in groups/pairs. Some of my favorite projects are pinned down below!
+</div>
 
-<ul>🌱 Technologies I know:
-    <li> Front-end:
-         <div style={display: 'flex'}>
-           <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-            <img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-            <img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-            <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-            <img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" >
-        </div>
-<li> Back-end:
-        <div style={display: 'flex'}>
-            <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
-            <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-            <img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" >
-            <img height="20" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" >
-        </div>
+---
 
-<li> Databases:
-        <div style={display: 'flex'}>
-            <img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
-            <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
-        </div>
-</ul>
+## 👋 About Me
 
-### 🔎 How to find me?
+I'm a **Software Engineer transitioning into DevOps**, with professional experience building web applications, APIs, development environments and automation workflows.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amlipski/)
-[<img src="https://img.shields.io/github/followers/dr1co?label=follow&style=social" height="20" title="Follow me" />](https://github.com/dr1co)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="20" />](mailto:dricomatoba@hotmail.com)
+I enjoy understanding the entire path between **code and production** — from development environments and containers to CI/CD pipelines and deployment.
 
-### Some statistics:
+* 🔧 Currently focused on **DevOps, automation and infrastructure**
+* 🐳 Working with **Docker and containerized environments**
+* ⚙️ Building **CI/CD workflows with GitHub Actions**
+* 📦 Working with **GitHub Packages** for container images
+* 🐍 Using **Python** for backend development and automation
+* 🐧 Comfortable working with **Linux environments**
+* 💻 Previous experience with **Django, Flask, React, TypeScript and Laravel**
+* 🚀 Interested in **Infrastructure as Code, Cloud, Kubernetes and platform engineering**
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/dr1co">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dr1co&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr1co&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+
+### ⚙️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,git&theme=dark&perline=5"/>
+
+### 🐍 Backend & Automation
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mongodb&theme=dark&perline=5"/>
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,php,laravel&theme=dark&perline=5"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🐳 Django Docker Template
+
+A generic, production-oriented development environment for Django applications.
+
+The project focuses on **reproducibility, containerization and automated deployment**, providing a ready-to-use foundation for building and running Django applications.
+
+`Python` `Django` `Docker` `GitHub Actions` `GitHub Packages`
+
+---
+
+### ⚡ Flask API Template
+
+A containerized template for building and deploying Flask REST APIs.
+
+Designed around **reproducible environments, automated workflows and deployment-ready configuration**.
+
+`Python` `Flask` `Docker` `CI/CD` `GitHub Packages`
+
+---
+
+### 🔧 Automation Projects
+
+A collection of automation projects and scripts built to simplify repetitive development and operational tasks.
+
+`Python` `Automation` `Linux` `APIs`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Infrastructure as Code
+        ↓
+     Terraform
+        ↓
+   Cloud Platforms
+        ↓
+    Kubernetes
+        ↓
+Observability & Monitoring
+```
+
+I'm continuously expanding my knowledge in **cloud infrastructure, infrastructure as code, container orchestration and observability**.
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=80&section=footer" width="100%"/>
+
 </div>
