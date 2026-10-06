@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=DevOps%20%26%20Automation&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
 
 <img src="https://komarev.com/ghpvc/?username=dr1co&color=00C9FF&style=for-the-badge" />
@@ -14,7 +12,7 @@
 
 I'm a **Software Engineer transitioning into DevOps**, with professional experience building web applications, APIs, development environments and automation workflows.
 
-I enjoy understanding the entire path between **code and production** — from development environments and containers to CI/CD pipelines and deployment.
+I enjoy understanding the entire path between **code and production**, from development environments and containers to CI/CD pipelines and deployment.
 
 * 🔧 Currently focused on **DevOps, automation and infrastructure**
 * 🐳 Working with **Docker and containerized environments**
@@ -122,13 +120,5 @@ I'm continuously expanding my knowledge in **cloud infrastructure, infrastructur
 <a href="https://YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=80&section=footer" width="100%"/>
 
 </div>
