@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=DevOps%20%26%20Automation&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=dr1co&color=00C9FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Hello, you can call me Drico
 
 I'm a **Software Engineer transitioning into DevOps**, with professional experience building web applications, APIs, development environments and automation workflows.
 
