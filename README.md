@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=DevOps%2FAutomation%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Monocraft&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Docker+%7C+CI%2FCD+%7C+Python+%7C+Linux;Automation+%26+Infrastructure;GitHub+Actions+%7C+GitHub+Packages;Building+Reliable+Development+Environments" />
 
 <img src="https://komarev.com/ghpvc/?username=dr1co&color=00C9FF&style=for-the-badge" />
 
@@ -35,11 +37,11 @@ I enjoy understanding the entire path between **code and production**, from deve
 
 ### 🐍 Backend & Automation
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mongodb&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,postgres,mongodb,prisma&theme=dark&perline=7"/>
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,php,laravel&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,django,tailwind,html,css&theme=dark&perline=7"/>
 
 </div>
 
@@ -80,8 +82,13 @@ A collection of automation projects and scripts built to simplify repetitive dev
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dr1co&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr1co&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr1co/dr1co/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr1co/dr1co/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/dr1co/dr1co/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
@@ -112,13 +119,19 @@ I'm continuously expanding my knowledge in **cloud infrastructure, infrastructur
 <a href="https://linkedin.com/in/amlipski">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:dricomatoba@hotmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=80&section=footer" width="100%"/>
 
 </div>
