@@ -138,7 +138,7 @@ I'm continuously expanding my knowledge in **cloud infrastructure, infrastructur
 <a href="mailto:dricomatoba@hotmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-ten-olive-78.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
